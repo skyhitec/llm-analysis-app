@@ -1,0 +1,17 @@
+# Large files
+*.mp4
+*.mov
+*.avi
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal data (don't upload raw data publicly)
+project/data/raw/
+project/evidence/photos/
+project/evidence/video/
